@@ -2,7 +2,9 @@
 *
 !.gitignore
 
-# Except privacy policy files
+# Except legal documents
 !privacy-policy-user.html
 !privacy-policy-admin.html
+!terms-conditions-user.html
+!terms-conditions-admin.html
 !README.md
